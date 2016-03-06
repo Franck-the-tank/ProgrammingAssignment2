@@ -46,8 +46,6 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
   
-  #Need to check if it is the same as the on in the cache
-  
   test <- x$getInvert()  
   if (!is.null(test)) {
     message("Getting cached data")
