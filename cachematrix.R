@@ -1,5 +1,5 @@
 ## Gives the invert of a defined matrix 
-#if the original matrix avide by the rules regarding inversion
+## if the original matrix avide by the rules regarding inversion
 
 ## makeCacheMatrix enables to set and get both a matrix and its invert
 ## it uses two objects matrixFinal and x, that can be used in other environments
